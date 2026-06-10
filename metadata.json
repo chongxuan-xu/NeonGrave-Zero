@@ -1,0 +1,8 @@
+{
+  "name": "NEON GRAVE // ZERO",
+  "description": "A visually stunning, AAA-feeling cyberpunk action roguelike. Play as a dead elite mercenary whose consciousness has been uploaded into an experimental combat android. Navigate slow-motion slides, katanas, and AI memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
